@@ -1,0 +1,5 @@
+Podemos pesquisar tipos de archetypes para nossa aplicação.
+https://maven.apache.org/archetypes/index.html
+
+ou podemos pesquisar modelos de archetype para o tipo de nossa aplicação
+exemplo: archetype para uma aplicação javaFX
