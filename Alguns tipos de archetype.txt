@@ -3,3 +3,8 @@ https://maven.apache.org/archetypes/index.html
 
 ou podemos pesquisar modelos de archetype para o tipo de nossa aplicação
 exemplo: archetype para uma aplicação javaFX
+
+
+Estrutura POM E suas caracteristicas 
+O POM descreve o projeto versão,arquivos , dependencias e etc. 
+ o POM é uma extensão da SuperPOM , se o mavem não achar o que ta prourando no POM ele ira procurar no super POM
